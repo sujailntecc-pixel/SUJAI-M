@@ -1,0 +1,5 @@
+{
+  "name": "Plant Leaf Checker",
+  "description": "An AI-powered application that analyzes plant leaf images to determine their health, predict future conditions, and identify potential disadvantages or diseases.",
+  "requestFramePermissions": []
+}
